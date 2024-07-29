@@ -1,5 +1,8 @@
 ## about sandbox
 
+[中文使用说明](https://github.com/liansecurityOS/The-sandbox-for-dynamic-detection-of-Incinerator/blob/master/README_CN.md)
+[README For English](https://github.com/liansecurityOS/The-sandbox-for-dynamic-detection-of-Incinerator/blob/master/README_EN.md)
+
 This is the sandbox currently used by our Incinerator. As a reverse engineering tool, we found that users often need more than just routine static analysis, repeatedly acquiring information like "permissions," "basic information," and so on. Moreover, the demand for rapid positioning dynamic analysis has become increasingly frequent. Therefore, we have integrated the sandbox with static reverse engineering tools, allowing users to reduce the analysis operations on APK reverse code. For unknown malicious samples and samples that require in-depth analysis, Incinerator achieves deep dynamic and static analysis.
 
 The following is a sample analysis report for the sandbox: [https://incinerator.cloud/#/report/share?shareToken=U2FsdGVkX19AbBVzhhQzr34%2BWj12gtvSCN1FanKT15hqp0dUn1bW6PBgb3XwI%2FaQNieVViTGStvftdRyr4c%2BgQ%3D%3D](https://incinerator.cloud/#/report/share?shareToken=U2FsdGVkX19AbBVzhhQzr34%2BWj12gtvSCN1FanKT15hqp0dUn1bW6PBgb3XwI%2FaQNieVViTGStvftdRyr4c%2BgQ%3D%3D)
